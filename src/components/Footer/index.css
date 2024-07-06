@@ -1,0 +1,27 @@
+.footer {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.icons-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.icons-container li {
+  height: 30px;
+  width: 30px;
+  background-color: gray;
+  border-radius: 50%;
+}
+.icons-container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer ul li {
+  font-size: 13px;
+}

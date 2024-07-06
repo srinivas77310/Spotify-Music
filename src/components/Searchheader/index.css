@@ -1,0 +1,44 @@
+.header-container {
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.top-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.bottom-header-container {
+  display: flex;
+}
+.top-ul-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.top-ul-container li {
+  margin-right: 20px;
+  list-style: none;
+}
+.left-right-btns {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.left-right-btns button {
+  margin-right: 5px;
+  padding: 10px 10px;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+}
+.s-color {
+  background-color: green;
+}
+.search {
+  margin-left: 15px;
+  width: 250px;
+  height: 35px;
+  background-color: rgb(50, 49, 49);
+  color: white;
+  border-radius: 5px;
+}

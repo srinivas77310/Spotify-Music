@@ -1,0 +1,15 @@
+.active {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+li {
+  list-style: none;
+  margin-right: 10px;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 10px;
+}
+.link {
+  text-decoration: none;
+}

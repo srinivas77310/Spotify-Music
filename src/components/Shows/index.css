@@ -1,0 +1,22 @@
+.home-lg-container {
+  display: flex;
+  flex-direction: row;
+}
+.music-container {
+  width: 70%;
+  height: 88vh;
+  border-radius: 5px;
+  margin: 10px;
+  margin-bottom: 10px;
+  overflow: auto;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.13);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.podcast {
+  margin-top: 130px;
+}

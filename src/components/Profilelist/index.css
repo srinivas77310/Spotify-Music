@@ -1,0 +1,16 @@
+.profilelist-container {
+  float: left;
+  width: 18%;
+}
+.profilelist-container img {
+  width: 100%;
+  height: 150px;
+  border-radius: 50%;
+}
+.profilelist-container h6 {
+  margin-top: -2px;
+}
+.profilelist-container p {
+  font-size: 12px;
+  margin-top: -15px;
+}

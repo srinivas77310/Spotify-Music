@@ -1,0 +1,38 @@
+.header-container {
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.top-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.left-right-btns {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.left-right-btns button {
+  margin-right: 5px;
+  padding: 10px 10px;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+}
+.bottom-header-container {
+  display: flex;
+}
+.top-ul-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.top-ul-container li {
+  margin-right: 20px;
+  list-style: none;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.s-color {
+  background-color: green;
+}

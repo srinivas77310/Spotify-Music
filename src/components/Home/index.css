@@ -1,0 +1,4 @@
+.home-lg-container {
+  display: flex;
+  flex-direction: row;
+}

@@ -1,0 +1,5 @@
+.middle-container {
+  width: 70%;
+  height: 90vh;
+  overflow: auto;
+}
